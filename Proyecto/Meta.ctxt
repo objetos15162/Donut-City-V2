@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Meta
+comment0.text=\r\n\ Clase\ Meta,\ al\ hacer\ contacto\ con\ ella,\ se\ termina\ el\ juego.\r\n\ \r\n\ @author\ Sandra\ Garc\u00EDa\ \ \ \ \r\n\ @author\ Cecilia\ V\u00E1zquez\r\n\ @version\ 5.0\ Mayo\ 2016\r\n
+comment1.params=
+comment1.target=Meta()
+comment1.text=\r\n\ Constructor\ de\ Meta\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ Comportamiento\ de\ la\ meta\r\n
+numComments=3

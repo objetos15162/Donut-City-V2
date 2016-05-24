@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Record
+comment0.text=\r\n\ La\ clase\ Records\ va\ a\ guardar\ la\ puntuaci\u00C3\u00B3n\ del\ juegador\ y\ mostrar\u00E1\ los\ r\u00C3\u00A9cords\ del\ men\u00C3\u00BA\ las\r\n\ puntuaciones\ m\u00C3\u00A1s\ altas.\r\n\ \r\n\ @author\ (Cerda\ Varela\ Ignacio)\ \r\n\ @version\ (2014.11.26)\r\n
+comment1.params=
+comment1.target=Record()
+comment2.params=puntos
+comment2.target=void\ guardaRecords(int)
+numComments=3

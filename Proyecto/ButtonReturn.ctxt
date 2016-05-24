@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ButtonReturn
+comment0.text=\r\n\ Bot\u00F3n\ usado\ en\ el\ men\u00FA\ para\ indicar\ que\ se\ desea\ regresar\ a\ este\r\n\ \r\n\ @author\ Sandra\ Garc\u00EDa\ \r\n\ @author\ Cecilia\ Vazquez\r\n\ @version\ Mayo\ 2016\r\n
+comment1.params=
+comment1.target=ButtonReturn()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ Comportamiento\ del\ bot\u00F3n\ return\r\n
+comment3.params=
+comment3.target=void\ mouseSobreBoton()
+comment3.text=\r\n\ Al\ hacer\ contacto\ con\ la\ clase,\ se\ cambia\ imagen\r\n
+numComments=4

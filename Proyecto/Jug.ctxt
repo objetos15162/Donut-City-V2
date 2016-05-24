@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Jug
+comment0.text=\r\n\ Representa\ informaci\u00F3n\ del\ jugador\r\n\ \r\n\ @author\ Sandra\ Garc\u00EDa\r\n\ @author\ Cecilia\ Vazquez\r\n\ @version\ (Mayo\ 2015)\r\n
+comment1.params=
+comment1.target=Jug()
+comment1.text=\r\n\ Constructor\ para\ objetos\ de\ clase\ Jugador.\r\n
+comment2.params=unScore
+comment2.target=void\ setScore(int)
+comment2.text=\r\n\ pone\ el\ valor\ del\ score\r\n\ \r\n\ @param\ unScore\ el\ valor\ del\ score\r\n
+comment3.params=unNombre
+comment3.target=void\ setName(java.lang.String)
+comment3.text=\r\n\ pone\ el\ nombre\ del\ jugador\r\n\ \r\n\ @param\ unNombre\ el\ nombre\ del\ jugador\r\n
+comment4.params=
+comment4.target=int\ getScore()
+comment4.text=\r\n\ devuelve\ el\ valor\ del\ score\r\n\ \r\n\ @return\ te\ devuleve\ el\ valor\ del\ score\r\n
+comment5.params=
+comment5.target=java.lang.String\ getNombre()
+comment5.text=\r\n\ devuelve\ el\ nombre\r\n\ \r\n\ @return\ devuelve\ el\ nombre\r\n
+numComments=6

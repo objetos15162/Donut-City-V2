@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Bonus
+comment0.text=\r\n\ Esta\ clase\ representa\ los\ 'bonus'\ o\ plus\ que\ adquiere\ el\ jugador\ a\ lo\ largo\ del\ \r\njuego\r\n\ \r\n\ @author\ Sandra\ Garc\u00EDa\ \r\n\ @author\ Cecilia\ Vazquez\r\n\ @version\ Mayo\ 2016\r\n
+comment1.params=numBonus
+comment1.target=Bonus(int)
+comment1.text=\r\n\ Constructor\ de\ Bonus\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ Comportamiento\ de\ Bonus\r\n
+comment3.params=
+comment3.target=void\ mueveBonus()
+comment3.text=\r\n\ Valida\ si\ se\ est\u00E1\ tocando\ objeto,\ de\ lo\ contrario\ avanza.\r\n
+comment4.params=
+comment4.target=void\ verificaPiso()
+comment4.text=\r\nverifica\ la\ posici\u00F3n\ del\ objeto\r\n
+comment5.params=
+comment5.target=int\ getNumBonus()
+numComments=6
